@@ -31,7 +31,17 @@ body {
   Vivid Tangerine #FF7D00
   Brandy #78290F */
 
-  .navbar, .leaf {
+  .navbar {
+    margin-top: 40px;
     background-color: #15616D;
-    color: #78290F;
+    color: #FFECD1
+  }
+
+.nav-item {
+  color: #FFECD1
+}
+
+.bi-leaf-fill {
+    background-color: #78290F;
+    color: #FFECD1;
   }
