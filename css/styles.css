@@ -58,7 +58,7 @@ body {
   color: #FFECD1;
 }
 
-.card1, .btn2, .card3 {
+.card1, .btn2, .card3, .middleSection {
   background-color: #78290f;
   color: #FFECD1;
   border: 1px solid #15616D;
@@ -72,4 +72,15 @@ body {
 
 .text2 {
   color: #78290f;
+}
+
+.slogan {
+  color:#FFECD1;
+  font-size: 3.5em;
+}
+
+.carouselCaption {
+  background-color: #15616D;
+  opacity: 0.8;
+  color: #FFECD1;
 }
