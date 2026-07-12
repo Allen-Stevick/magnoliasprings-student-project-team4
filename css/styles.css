@@ -70,6 +70,20 @@ body {
   border: 1px solid #15616D;
 }
 
+.marshal {
+  background-color: #15616D;
+  color:#FFECD1;
+}
+
+.vendor {
+  background-color: #FF7D00;
+  color: #78290F;
+}
+
+.text1 {
+  color: #FFECD1;
+}
+
 .text2 {
   color: #78290f;
 }
