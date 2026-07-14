@@ -129,3 +129,8 @@ body {
   background-color: #78290F;
   color: #FFECD1;
 }
+
+.accordion-collapse {
+  background-color: #78290F60;
+  color:#15616D;
+}
