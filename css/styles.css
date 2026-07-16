@@ -38,11 +38,11 @@ body {
 
 .navbar, .showcase, .footer {
   background-color: #15616D;
-  color: #FFECD1
+  color: #FF7D00;
   }
 
 .nav-item {
-  color: #FFECD1
+  color: #FF7D00;
 }
 
 .bi-leaf-fill {
